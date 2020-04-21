@@ -1,0 +1,23 @@
+{
+  "name": "animeapp",
+  "version": "1.0.0",
+  "description": "API para Anime \"To-do it\" app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julian Avellaneda",
+  "license": "ISC",
+  "dependencies": {
+    "brotli": "^1.3.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cloudscraper": "^4.6.0",
+    "compose-middleware": "^5.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "request-promise-core": "^1.1.3"
+  }
+}
